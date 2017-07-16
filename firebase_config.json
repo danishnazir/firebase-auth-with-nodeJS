@@ -1,0 +1,9 @@
+ //obtain it from firebase dashboard
+ {
+ "apiKey": "",
+    "authDomain": "",
+    "databaseURL": "",
+    "projectId": "",
+    "storageBucket": "",
+    "messagingSenderId": ""
+}
